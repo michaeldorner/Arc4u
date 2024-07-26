@@ -2,7 +2,8 @@
 
 SonarCloud info </br>
 
-> [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=GFlisch_Arc4u&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=GFlisch_Arc4u) </br>
+> [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=GFlisch_Arc4u&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=GFlisch_Arc4u) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaeldorner%2FArc4u.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaeldorner%2FArc4u?ref=badge_shield)
+</br>
 > [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=GFlisch_Arc4u&metric=bugs)](https://sonarcloud.io/summary/new_code?id=GFlisch_Arc4u) </br>
 >[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=GFlisch_Arc4u&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=GFlisch_Arc4u)
 
@@ -37,3 +38,7 @@ You will find more info on the [Guidance doc repo](https://github.com/gflisch/ar
 
 Gilles
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaeldorner%2FArc4u.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaeldorner%2FArc4u?ref=badge_large)
